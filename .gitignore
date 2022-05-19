@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/vuejs,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=vuejs,visualstudiocode
 
+.env
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
