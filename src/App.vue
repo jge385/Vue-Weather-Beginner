@@ -39,7 +39,7 @@ export default {
   data() {
     return {
       //these are initial values
-      api_key: "63b393c9949242190f227bb06fa81803",
+      api_key: process.env.API_KEY,
       url_base: "https://api.openweathermap.org/data/3.0/onecall",
       query: "",
       weather: {},
